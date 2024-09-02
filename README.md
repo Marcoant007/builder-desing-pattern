@@ -1,10 +1,7 @@
 # Projeto Builder Design Pattern
 
 Este projeto demonstra a implementação do padrão de projeto **Builder** em Java, utilizado para criar objetos complexos passo a passo.
-
-![image](https://i.ibb.co/b3ZcJ1m/image.png)
-
-
+![image](https://github.com/user-attachments/assets/4d77f0b1-3091-4b99-af9f-4d34a2581a2f)
 
 ## Descrição
 
